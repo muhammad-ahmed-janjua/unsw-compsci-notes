@@ -1,4 +1,4 @@
-#### What is a filter?
+### What is a filter?
 
 - A filter is a program that transforms a byte stream.
 - reads bytes from stdin -> performs transformations -> write transformation to the stdout
@@ -47,5 +47,3 @@
 	    - `-G` matches a subset of regex
 	    - `-E` matches full POSIX regex***
 	    - `-P` matches POSIX regex + Perl extensions
-- #### Practice
-	- [[Regex Practice]]
