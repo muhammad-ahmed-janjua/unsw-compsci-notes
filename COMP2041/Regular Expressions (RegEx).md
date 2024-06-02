@@ -71,6 +71,3 @@
 | p{n,m} | Matches n to m repetitions of p           |
 | p{n,}  | Matches n or more repetitions of p        |
 | p{,m}  | Matches m or less repetitions of p        |
-
-##### Pratice:
-[[Regex Practice]]
