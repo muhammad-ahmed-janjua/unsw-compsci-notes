@@ -8,7 +8,7 @@
 ``^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$$``
 
 - **Explanation:** 
-	- \'^'  asserts the position at the start of the string.
+	- `\'^'`  asserts the position at the start of the string.
 	- `[a-zA-Z0-9._%+-]+`: denotes that the sequence matches one or more characters that can be lowercase or uppercase (`a-zA-Z`). As well as containing any special characters as represented with `._%+-`
 	- `@`: Matches the "@" symbol
 	- `[a-zA-Z0-9.-]+`: Matches one or more characters that can be lowercase or uppercase letters (`a-zA-Z`), digits (`0-9`), dots (`.`), or hyphens (`-`). This represents the domain name.
