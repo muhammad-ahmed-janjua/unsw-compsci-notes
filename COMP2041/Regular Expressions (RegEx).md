@@ -1,10 +1,3 @@
----
-tags:
-  - "#compsci"
-  - COMP2041
-  - "#regex"
-cssclasses:
----
 ### What is RegEx? 
 
 - **Defines a pattern for matching strings:** A regex is a sequence of characters that defines a search pattern. It is used to match strings against this pattern.
